@@ -3,9 +3,9 @@
 =========
 
 ## Contact information:
-* Telephone: +7981-431-45-56
-* Email: hasky24@gmail.com
-* Telegram: @hasky24
+* __Telephone:__ +7981-431-45-56
+* __Email:__ hasky24@gmail.com
+* __Telegram:__ @hasky24
 * [Behance](https://www.behance.net/hasky24)
 
 ==========
@@ -25,6 +25,11 @@ I am currently involved in a non-profit project to create a computer game and am
 ==========
 
 ## Sample code:
+```
+function SayHi() {
+    alert ("Hello RSSchool!");
+}
+```
 
 ==========
 
